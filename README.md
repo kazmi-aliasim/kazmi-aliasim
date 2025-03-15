@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kazmi-aliasim
 - 👀 I’m interested in backend programming
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on learning projects
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me email: aliasimkazmi@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Koala's, Panda's and Sloth's
